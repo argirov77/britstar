@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name": "BRITSTAR MANAGEMENT LIMITED",
+    "logo": "/assets/images/britstar-logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "href": "home"
+    },
+    {
+      "name": "Services",
+      "href": "product"
+    },
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About Us",
+      "href": "about"
+    }
+    
+  ],
+  "callToAction": {
+    "text": "Contact Us",
+    "href": "contact"
+  },
+  "mainHero": {
+    "title": "Drive Conversions",
+    "subtitle": "with Performance Marketing",
+    "description": "Britstar Management Limited specializes in affiliate marketing, Google Ads and Facebook Ads to deliver targeted traffic and measurable growth for your business.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Learn More",
+      "href": "product"
+    },
+    "secondaryAction": {
+      "text": "Email Us",
+      "href": "mailto:main@britstar.online"
+    }
+  },
+  "product": {
+    "title": "Our Core Services",
+    "items": [
+      {
+        "title": "Affiliate Marketing",
+        "description": "Leverage our global affiliate network to promote your products on a pay-for-performance basis and only invest in real results.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Google & Facebook Ads",
+        "description": "We run and optimize high-impact Google Ads and Facebook Ads campaigns to reach the right audience and maximize ROI.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Why Choose Britstar",
+    "subtitle": "Our Expertise at Your Service",
+    "description": "With data-driven strategies and a performance-based approach, we ensure every dollar you spend generates real value.",
+    "items": [
+      {
+        "name": "Performance-Based Pricing",
+        "description": "Our CPS and CPL models align our incentives with your success: you pay only for conversions and leads.",
+        "icon": "/assets/images/performance.png"
+      },
+      {
+        "name": "Advanced Targeting",
+        "description": "We use demographic, interest and behavior data to precisely reach and engage your ideal customers.",
+        "icon": "/assets/images/target.png"
+      },
+      {
+        "name": "Multi-Channel Campaigns",
+        "description": "Integrated affiliate, Google Ads and Facebook Ads campaigns for maximum reach and synergy.",
+        "icon": "/assets/images/channels.png"
+      },
+      {
+        "name": "Transparent Analytics",
+        "description": "Real-time reporting and insights let you track performance, optimization steps and ROI at every stage.",
+        "icon": "/assets/images/trust.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Service Packages",
+    "items": [
+      {
+        "name": "Starter",
+        "price": "$500",
+        "priceDetails": "per month",
+        "features": [
+          "Affiliate network setup",
+          "Basic Google & Facebook Ads",
+          "Monthly performance report"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$1,200",
+        "priceDetails": "per month",
+        "features": [
+          "Full affiliate management",
+          "Advanced Ads strategy",
+          "Bi-weekly optimizations",
+          "Dedicated account manager"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$2,500",
+        "priceDetails": "per month",
+        "features": [
+          "All Growth features",
+          "Custom analytics dashboard",
+          "24/7 support",
+          "Unlimited campaigns"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Who We Are",
+        "href": "about",
+        "content": "Britstar Management Limited is a performance marketing agency specializing in affiliate marketing, Google Ads and Facebook Ads. We connect brands with real customers and deliver measurable results."
+      },
+      {
+        "name": "Our Approach",
+        "href": "product",
+        "content": "We combine data-driven strategies, rigorous A/B testing and a trusted affiliate network to drive high-quality traffic that converts."
+      },
+      {
+        "name": "Our Team",
+        "href": "features",
+        "content": "Our experienced marketers and analysts work collaboratively to optimize campaigns and maximize your ROI at every step."
+      },
+      {
+        "name": "Get in Touch",
+        "href": "contact",
+        "content": "Ready to grow? Contact us to learn how Britstar can scale your business through targeted affiliate and ad campaigns."
+      }
+    ]
+  }
+}
