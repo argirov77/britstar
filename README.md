@@ -31,6 +31,10 @@ Built-in feature from Next.js:
 - 💨 Live reload
 - ✅ Cache busting
 
+### Requirements
+
+This project requires Node.js 16. Use `nvm` or install Node 16 before building.
+
 ### Make it your own
 
 #### 1. Clone repo
