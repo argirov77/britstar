@@ -1,4 +1,5 @@
 import React from 'react';
+
 import config from '../config/index.json';
 
 const About: React.FC = () => {
@@ -7,7 +8,10 @@ const About: React.FC = () => {
   const { sections } = about;
 
   return (
-    <section id="about" className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4 py-12">
+    <section
+      id="about"
+      className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4 py-12"
+    >
       <div className="flex flex-col items-center">
         {/* Логотип и название */}
         <img src={logo} alt={companyName} className="w-16 h-16 mb-4" />

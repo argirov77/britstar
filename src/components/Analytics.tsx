@@ -1,6 +1,9 @@
 // src/components/Analytics.js
+
 'use client';
+
 import React from 'react';
+
 import config from '../config/index.json';
 
 const Analytics = () => {
@@ -15,14 +18,19 @@ const Analytics = () => {
         </h2>
 
         <p className="text-lg font-medium text-gray-900">
-          <a href="mailto:main@britstar.online" className="text-primary hover:underline">
+          <a
+            href="mailto:main@britstar.online"
+            className="text-primary hover:underline"
+          >
             main@britstar.online
           </a>
         </p>
 
         <address className="mt-2 not-italic text-gray-700 leading-relaxed">
-          Hyde Park Hayes 3, 5th Floor<br />
-          11 Millington Road, Hayes<br />
+          Hyde Park Hayes 3, 5th Floor
+          <br />
+          11 Millington Road, Hayes
+          <br />
           London, United Kingdom, UB3 4AZ
         </address>
 
