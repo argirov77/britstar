@@ -55,6 +55,6 @@
   },
   "license": "ISC",
   "engines": {
-    "node": "16"
+    "node": ">=16"
   }
 }
